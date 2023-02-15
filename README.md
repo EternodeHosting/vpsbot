@@ -20,4 +20,4 @@ Allows you to create &amp; admin LinuxContainers (LXC) Using Discord
 - 4Gb 1Vcore KVM Server
 
 # Installation!
-- **wget https://github.com/dxomg/vpsbot/raw/main/install.sh -qO- | bash**
+- **wget https://raw.githubusercontent.com/EternodeHosting/vpsbot/main/dockerbot/main.py -qO- | bash**
